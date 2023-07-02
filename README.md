@@ -1,4 +1,4 @@
-# QuantFinanceWinningRepoHackRush
+# Hackrush'23 Quant Finance Solutions 
 
 Where ML meets Finance :)
 
